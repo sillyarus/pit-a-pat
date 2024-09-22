@@ -1,0 +1,23 @@
+body{
+    position: relative center;
+    background: black;
+    text-align: center;
+}
+
+h1{
+    color: white; font-family: "SilkScreen Static", "Press Start 2P"; font-size: 20px; font:bold;
+    padding: 5px; margin: 2%;
+    
+}
+
+.wey-png{
+    display: flex; justify-content: center; align-items: center; height: 450px;
+}
+
+button{
+    cursor: pointer;
+    width: 90%;  
+    font-size: 15px; padding: 10px; border-radius: 4px; margin: 3px; color: white; background-color: rgb(0, 0, 0);
+    border-style:solid; border-color: white;
+    font-family: "Press Start 2P", "Silkscreen Static";
+}
